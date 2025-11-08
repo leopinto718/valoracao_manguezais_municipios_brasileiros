@@ -7,6 +7,7 @@ Instrutor: Cássio Pinheiro
 Integrante: Leonardo Mesquita Pinto (Matrícula)
 
 Repositório GitHub: (https://github.com/leopinto718/valoracao_manguezais_municipios_brasileiros/tree/main)
+
 Data de Entrega: 14/11/2025
 
 2. Objetivo do Projeto
