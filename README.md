@@ -33,7 +33,7 @@ flowchart LR
 
 
 4. Funcionalidades Implementadas
-```md
+md
 | Funcionalidade | O que faz | Conceito do curso demonstrado |
 |---|---|---|
 | Leitura da tabela CSV de manguezais | Lê e carrega os dados de área de manguezal (hectares) | Pandas (Módulo 2) |
@@ -42,4 +42,4 @@ flowchart LR
 | Função `calcular_valor_economico()` | Converte carbono total para valor econômico usando preço por tCO₂e | Funções + operações numéricas (Módulo 1) |
 | Ranking por município e por região | Soma e ordena resultados por grupo (região) | Agrupamentos/Groupby (Módulo 2) |
 | Visualização comparativa por região | Barras comparando biomassa e potencial econômico entre regiões | Matplotlib / Seaborn (Módulo 3) |
-```
+
