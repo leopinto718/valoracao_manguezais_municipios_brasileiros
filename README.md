@@ -2,9 +2,12 @@
 Valoração Econômica do Carbono em Manguezais Brasileiros
 
 Disciplina: Programação para Ciência de Dados
+
 Curso: MBA Ciência de Dados - UNIFOR
+
 Instrutor: Cássio Pinheiro
-Integrante: Leonardo Mesquita Pinto (Matrícula)
+
+Integrante: Leonardo Mesquita Pinto (2528979)
 
 Repositório GitHub: (https://github.com/leopinto718/valoracao_manguezais_municipios_brasileiros/tree/main)
 
