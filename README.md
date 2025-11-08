@@ -6,7 +6,7 @@ Curso: MBA Ciência de Dados - UNIFOR
 Instrutor: Cássio Pinheiro
 Integrante: Leonardo Mesquita Pinto (Matrícula)
 
-Repositório GitHub: <coloque o link do repositório público>
+Repositório GitHub: (https://github.com/leopinto718/valoracao_manguezais_municipios_brasileiros/tree/main)
 Data de Entrega: 14/11/2025
 
 2. Objetivo do Projeto
@@ -33,7 +33,7 @@ flowchart LR
 
 
 4. Funcionalidades Implementadas
-md
+
 | Funcionalidade | O que faz | Conceito do curso demonstrado |
 |---|---|---|
 | Leitura da tabela CSV de manguezais | Lê e carrega os dados de área de manguezal (hectares) | Pandas (Módulo 2) |
