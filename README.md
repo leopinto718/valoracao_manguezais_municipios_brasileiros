@@ -1,5 +1,5 @@
 # valoracao_manguezais_municipios_brasileiros
-Valoração Econômica do Carbono em Manguezais Brasileiros
+### Valoração Econômica do Carbono em Manguezais Brasileiros
 
 Disciplina: Programação para Ciência de Dados
 
@@ -13,7 +13,7 @@ Repositório GitHub: (https://github.com/leopinto718/valoracao_manguezais_munici
 
 Data de Entrega: 14/11/2025
 
-2. Objetivo do Projeto
+### 2. Objetivo do Projeto
 
 O objetivo deste projeto é estimar a biomassa de carbono estocada em ecossistemas de manguezal nos municípios brasileiros a partir da área total de manguezal. A partir dessa estimativa é feito um exercício de valoração econômica, calculando o potencial de receita financeira que cada município poderia gerar no mercado de créditos de carbono, caso estes estoques de carbono fossem efetivamente protegidos.
 
@@ -25,7 +25,7 @@ Além da estimativa individual por município, o projeto compara diferentes regi
 
 Esse tipo de análise é útil para gestores ambientais, tomadores de decisão, secretarias estaduais/municipais de meio ambiente e também para políticas públicas de mitigação de mudanças climáticas, uma vez que manguezais são um dos ecossistemas mais eficientes do planeta em sequestrar carbono.
 
-3. Diagrama de Contexto (Mermaid)
+### 3. Diagrama de Contexto (Mermaid)
 ```mermaid
 flowchart LR
     A[dataset área de manguezal por município] --> B[processamento em Python]
@@ -36,7 +36,7 @@ flowchart LR
 
 
 
-4. Funcionalidades Implementadas
+### 4. Funcionalidades Implementadas
 
 | Funcionalidade | O que faz | Conceito do curso demonstrado |
 |---|---|---|
